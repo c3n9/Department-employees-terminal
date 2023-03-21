@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="123cfe669d044f558de8a0291eb1ea92" Name="Diagram1">
+        <EntityTypeShape EntityType="GuardianModel.Department" Width="1.5" PointX="0.75" PointY="4.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="GuardianModel.Employee" Width="1.5" PointX="3" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GuardianModel.Pass" Width="1.5" PointX="5.25" PointY="2.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="GuardianModel.PassDocument" Width="1.5" PointX="7.5" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="GuardianModel.PassLog" Width="1.5" PointX="7.5" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GuardianModel.PassStatus" Width="1.5" PointX="3" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GuardianModel.sysdiagrams" Width="1.5" PointX="7.75" PointY="6.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="GuardianModel.User" Width="1.5" PointX="3" PointY="7.125" IsExpanded="true" />
+        <AssociationConnector Association="GuardianModel.FK_Employee_Department" ManuallyRouted="false" />
+        <AssociationConnector Association="GuardianModel.FK_Pass_Employee" ManuallyRouted="false" />
+        <AssociationConnector Association="GuardianModel.FK_PassLog_Employee" ManuallyRouted="false" />
+        <AssociationConnector Association="GuardianModel.FK_Pass_PassStatus" ManuallyRouted="false" />
+        <AssociationConnector Association="GuardianModel.FK_Pass_User" ManuallyRouted="false" />
+        <AssociationConnector Association="GuardianModel.FK_PassDocument_Pass" ManuallyRouted="false" />
+        <AssociationConnector Association="GuardianModel.FK_PassLog_Pass" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

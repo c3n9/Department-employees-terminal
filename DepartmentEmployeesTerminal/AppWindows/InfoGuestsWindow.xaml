@@ -1,0 +1,83 @@
+﻿<Window x:Class="DepartmentEmployeesTerminal.AppWindows.InfoGuestsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DepartmentEmployeesTerminal.AppWindows"
+        mc:Ignorable="d"
+        Title="InfoGuestsWindow" Height="550" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <Button x:Name="BClose"
+                Grid.ColumnSpan="2"
+                HorizontalAlignment="Left"
+                Content="Закрыть"
+                Background="White"
+                BorderBrush="#ff9919"
+                BorderThickness="2"
+                Height="20"
+                Click="BClose_Click"/>
+        <StackPanel Grid.Row="1">
+            <TextBlock Text="Фамилия"/>
+            <TextBlock Text="{Binding Surname}"/>
+            <TextBlock Text="Имя"/>
+            <TextBlock Text="{Binding Name}"/>
+            <TextBlock Text="Отчество"/>
+            <TextBlock Text="{Binding Patromic}"/>
+            <TextBlock Text="Номер телефона"/>
+            <TextBlock Text="{Binding Phone}"/>
+            <TextBlock Text="Организация"/>
+            <TextBlock Text="{Binding Organization}"/>
+            <TextBlock Text="Примечание"/>
+            <TextBlock Text="{Binding Description}"/>
+            <TextBlock Text="День рождения"/>
+            <DatePicker SelectedDate="{Binding BirthDate}"
+                        IsEnabled="False"/>
+            <TextBlock Text="Серия и номер паспорта"/>
+            <TextBlock Text="{Binding Passport}"/>
+            <TextBlock Text="Подразделение"/>
+            <TextBlock Text="{Binding Employee.Department.Name}"/>
+        </StackPanel>
+        <StackPanel Grid.Column="1"
+                    Grid.Row="1">
+            <TextBlock Text="Фото"/>
+            <Image Source="{Binding Photo}"
+                   Width="200"
+                   Height="150"
+                   HorizontalAlignment="Left"/>
+            <TextBlock Text="Начало действия пропуска"/>
+            <DatePicker SelectedDate="{Binding DateStart}"
+                        x:Name="DPDateStart"
+                        IsEnabled="False"/>
+            <TextBlock Text="Конец действия пропуска"/>
+            <DatePicker SelectedDate="{Binding DateEnd}"
+                        x:Name="DPDateEnd"
+                        IsEnabled="False"/>
+            <TextBlock Text="Цель визита"/>
+            <TextBlock Text="{Binding VisitPurpose}"/>
+            <TextBlock Text="Статус пропуска"/>
+            <TextBlock Text="{Binding PassStatus.Name}"/>
+        </StackPanel>
+        <DataGrid IsReadOnly="True"
+                  x:Name="DGEnterOrExit"
+                  AutoGenerateColumns="False"
+                  Grid.ColumnSpan="2"
+                  ColumnWidth="*"
+                  Grid.Row="2">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Время входа"
+                                        Binding="{Binding EnterOrExit}"/>
+                <DataGridTextColumn Header="Время выхода"
+                                        Binding="{Binding EnterOrExit}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

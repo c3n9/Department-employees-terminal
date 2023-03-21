@@ -1,0 +1,78 @@
+﻿<Page x:Class="DepartmentEmployeesTerminal.Pages.PGuests"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:DepartmentEmployeesTerminal.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="PGuests">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="auto"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Column="1">
+            <TextBlock Text="Фильрация"/>
+            <TextBlock Text="Дата"/>
+            <DatePicker Name="DPDateForFilter"
+                        Width="200"
+                        SelectedDateChanged="DPDateForFilter_SelectedDateChanged"/>
+            <TextBlock Text="Просмотр подробной информации"/>
+            <Button x:Name="BView"
+                Content="Просмотреть анкету"
+                Background="White"
+                BorderBrush="#ff9919"
+                BorderThickness="2"
+                Click="BView_Click"
+                Height="25"/>
+        </StackPanel>
+        <DataGrid AutoGenerateColumns="False"
+                  IsReadOnly="True"
+                  ColumnWidth="*"
+                  x:Name="DGGuests"
+                  MouseRightButtonDown="DGGuests_MouseRightButtonDown">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Фамилия"
+                                    Binding="{Binding Surname}"/>
+                <DataGridTextColumn Header="Имя"
+                                    Binding="{Binding Name}"/>
+                <DataGridTextColumn Header="Отчество"
+                                    Binding="{Binding Patromic}"/>
+                <DataGridTextColumn Header="Телефон"
+                                    Binding="{Binding Phone}"/>
+                <DataGridTextColumn Header="E-mail"
+                                    Binding="{Binding Email}"/>
+                <DataGridTextColumn Header="Организация"
+                                    Binding="{Binding Organization}"/>
+                <DataGridTextColumn Header="Примечание"
+                                    Binding="{Binding Description}"/>
+                <DataGridTextColumn Header="Дата рождения"
+                                    Binding="{Binding BirthDate}"/>
+                <DataGridTextColumn Header="Серия паспорта"
+                                    Binding="{Binding PassportSeria}"/>
+                <DataGridTextColumn Header="Номер паспорта"
+                                    Binding="{Binding PassportNumber}"/>
+                <DataGridTemplateColumn Header="Фото">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Image Source="{Binding Photo}"
+                                   Width="60"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTextColumn Header="Начало действия"
+                                    Binding="{Binding DateStart}"/>
+                <DataGridTextColumn Header="Конец действия"
+                                    Binding="{Binding DateEnd}"/>
+                <DataGridTextColumn Header="Цель визита"
+                                    Binding="{Binding VisitPurpose}"/>
+                <DataGridTextColumn Header="Статус"
+                                    Binding="{Binding PassStatus.Name}"/>
+                <DataGridTextColumn Header="Подразделение"
+                                    Binding="{Binding Employee.Department.Name}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Page>

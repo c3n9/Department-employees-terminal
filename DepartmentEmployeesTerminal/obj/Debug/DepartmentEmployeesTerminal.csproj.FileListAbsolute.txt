@@ -1,0 +1,62 @@
+C:\Users\quart\source\repos\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\bin\Debug\DepartmentEmployeesTerminal.exe.config
+C:\Users\quart\source\repos\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\bin\Debug\DepartmentEmployeesTerminal.exe
+C:\Users\quart\source\repos\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\bin\Debug\DepartmentEmployeesTerminal.pdb
+C:\Users\quart\source\repos\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\bin\Debug\EntityFramework.dll
+C:\Users\quart\source\repos\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\quart\source\repos\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\bin\Debug\EntityFramework.xml
+C:\Users\quart\source\repos\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\quart\source\repos\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\quart\source\repos\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\obj\Debug\DepartmentEmployeesTerminal.csproj.AssemblyReference.cache
+C:\Users\quart\source\repos\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\obj\Debug\DepartmentEmployeesTerminal.csproj.SuggestedBindingRedirects.cache
+C:\Users\quart\source\repos\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\obj\Debug\MainWindow.g.cs
+C:\Users\quart\source\repos\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\obj\Debug\Pages\PGuests.g.cs
+C:\Users\quart\source\repos\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\obj\Debug\Pages\PLogin.g.cs
+C:\Users\quart\source\repos\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\obj\Debug\App.g.cs
+C:\Users\quart\source\repos\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\obj\Debug\DepartmentEmployeesTerminal_Content.g.cs
+C:\Users\quart\source\repos\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\obj\Debug\DepartmentEmployeesTerminal_MarkupCompile.cache
+C:\Users\quart\source\repos\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\obj\Debug\DepartmentEmployeesTerminal_MarkupCompile.lref
+C:\Users\quart\source\repos\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\obj\Debug\MainWindow.baml
+C:\Users\quart\source\repos\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\obj\Debug\Pages\PGuests.baml
+C:\Users\quart\source\repos\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\obj\Debug\Pages\PLogin.baml
+C:\Users\quart\source\repos\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\obj\Debug\DepartmentEmployeesTerminal.g.resources
+C:\Users\quart\source\repos\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\obj\Debug\DepartmentEmployeesTerminal.Properties.Resources.resources
+C:\Users\quart\source\repos\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\obj\Debug\DepartmentEmployeesTerminal.csproj.GenerateResource.cache
+C:\Users\quart\source\repos\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\obj\Debug\DepartmentEmployeesTerminal.csproj.CoreCompileInputs.cache
+C:\Users\quart\source\repos\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\obj\Debug\DepartmentEmployeesTerminal.csproj.CopyComplete
+C:\Users\quart\source\repos\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\obj\Debug\DepartmentEmployeesTerminal.exe
+C:\Users\quart\source\repos\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\obj\Debug\DepartmentEmployeesTerminal.pdb
+C:\Users\quart\source\repos\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\obj\Debug\AppWindows\AddToBlackListWindow.g.cs
+C:\Users\quart\source\repos\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\obj\Debug\AppWindows\AddToBlackListWindow.baml
+C:\Users\quart\source\repos\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\obj\Debug\AppWindows\InfoGuestsWindow.g.cs
+C:\Users\quart\source\repos\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\obj\Debug\AppWindows\InfoGuestsWindow.baml
+C:\Users\quart\OneDrive\Рабочий стол\guardian\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\bin\Debug\DepartmentEmployeesTerminal.exe.config
+C:\Users\quart\OneDrive\Рабочий стол\guardian\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\bin\Debug\DepartmentEmployeesTerminal.exe
+C:\Users\quart\OneDrive\Рабочий стол\guardian\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\bin\Debug\DepartmentEmployeesTerminal.pdb
+C:\Users\quart\OneDrive\Рабочий стол\guardian\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\bin\Debug\EntityFramework.dll
+C:\Users\quart\OneDrive\Рабочий стол\guardian\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\quart\OneDrive\Рабочий стол\guardian\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\bin\Debug\EntityFramework.xml
+C:\Users\quart\OneDrive\Рабочий стол\guardian\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\quart\OneDrive\Рабочий стол\guardian\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\quart\OneDrive\Рабочий стол\guardian\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\obj\Debug\DepartmentEmployeesTerminal.csproj.AssemblyReference.cache
+C:\Users\quart\OneDrive\Рабочий стол\guardian\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\obj\Debug\DepartmentEmployeesTerminal.csproj.SuggestedBindingRedirects.cache
+C:\Users\quart\OneDrive\Рабочий стол\guardian\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\obj\Debug\AppWindows\AddToBlackListWindow.g.cs
+C:\Users\quart\OneDrive\Рабочий стол\guardian\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\obj\Debug\AppWindows\InfoGuestsWindow.g.cs
+C:\Users\quart\OneDrive\Рабочий стол\guardian\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\obj\Debug\MainWindow.g.cs
+C:\Users\quart\OneDrive\Рабочий стол\guardian\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\obj\Debug\Pages\PGuests.g.cs
+C:\Users\quart\OneDrive\Рабочий стол\guardian\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\obj\Debug\Pages\PLogin.g.cs
+C:\Users\quart\OneDrive\Рабочий стол\guardian\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\obj\Debug\App.g.cs
+C:\Users\quart\OneDrive\Рабочий стол\guardian\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\obj\Debug\DepartmentEmployeesTerminal_Content.g.cs
+C:\Users\quart\OneDrive\Рабочий стол\guardian\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\obj\Debug\DepartmentEmployeesTerminal_MarkupCompile.cache
+C:\Users\quart\OneDrive\Рабочий стол\guardian\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\obj\Debug\DepartmentEmployeesTerminal_MarkupCompile.lref
+C:\Users\quart\OneDrive\Рабочий стол\guardian\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\obj\Debug\AppWindows\AddToBlackListWindow.baml
+C:\Users\quart\OneDrive\Рабочий стол\guardian\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\obj\Debug\AppWindows\InfoGuestsWindow.baml
+C:\Users\quart\OneDrive\Рабочий стол\guardian\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\obj\Debug\MainWindow.baml
+C:\Users\quart\OneDrive\Рабочий стол\guardian\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\obj\Debug\Pages\PGuests.baml
+C:\Users\quart\OneDrive\Рабочий стол\guardian\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\obj\Debug\Pages\PLogin.baml
+C:\Users\quart\OneDrive\Рабочий стол\guardian\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\obj\Debug\DepartmentEmployeesTerminal.g.resources
+C:\Users\quart\OneDrive\Рабочий стол\guardian\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\obj\Debug\DepartmentEmployeesTerminal.Properties.Resources.resources
+C:\Users\quart\OneDrive\Рабочий стол\guardian\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\obj\Debug\DepartmentEmployeesTerminal.csproj.GenerateResource.cache
+C:\Users\quart\OneDrive\Рабочий стол\guardian\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\obj\Debug\DepartmentEmployeesTerminal.csproj.CoreCompileInputs.cache
+C:\Users\quart\OneDrive\Рабочий стол\guardian\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\obj\Debug\DepartmentEmployeesTerminal.csproj.CopyComplete
+C:\Users\quart\OneDrive\Рабочий стол\guardian\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\obj\Debug\DepartmentEmployeesTerminal.exe
+C:\Users\quart\OneDrive\Рабочий стол\guardian\DepartmentEmployeesTerminal\DepartmentEmployeesTerminal\obj\Debug\DepartmentEmployeesTerminal.pdb
